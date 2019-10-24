@@ -35,6 +35,7 @@ Are you too bashful to go outside and talk to real people?  Here is a dating sim
 * jsonwebtoken 
 * mongoose
 * morgan 
+* node
 * nodemon
 * play-sound
 * superagent
