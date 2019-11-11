@@ -49,7 +49,7 @@ Are you too bashful to go outside and talk to real people?  Here is a dating sim
 * Navigate into your newly cloned folder
 * Install libraries listed above with `npm i`
 * To launch the game, type `node client/index.js`
-* If you're running a Mac, be sure to crank up the volume!
+* If you're running a Mac, be sure to crank up the volume! 
 
 ## User Stories:
 * As a user, I want to be able to create a profile, so that I can be matched with a date.
