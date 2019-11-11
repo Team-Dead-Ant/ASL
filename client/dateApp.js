@@ -1,6 +1,4 @@
-/* eslint-disable no-unused-vars */
 const inquirer = require('inquirer');
-const chalk = require('chalk');
 const chalkPipe = require('chalk-pipe');
 const request = require('superagent');
 const storySelect = require('./stories');
