@@ -10,9 +10,7 @@ Antonella Gutierrez
 
 ## Description: 
 ✧･ﾟ: ✧･ﾟ: A Terminal Based Dating Simulator :･ﾟ✧:･ﾟ✧
-
-## Problem Domain: 
-Are you too bashful to go outside and talk to real people?  Here is a dating simulator to help curb those social anxiety fears. Refine your ideas for what constitutes the perfect date.  For all genders and orientations.
+A RESTful backend CLI game that uses the BASH terminal as an interface.
 
 ## Semantic Versioning: 
 1.0.0
@@ -21,6 +19,12 @@ Are you too bashful to go outside and talk to real people?  Here is a dating sim
 * [postman](https://documenter.getpostman.com/view/3514331/SVtZvRrK?version=latest)
 * [travis](https://travis-ci.com/Team-Dead-Ant/BASHful)
 * [heroku](https://bashful-game.herokuapp.com/)
+
+### TECK STACK:
+* Javascript
+* MongoDB
+* Mongoose
+* Inquirer
 
 ### Libraries, Frameworks, Packages: 
 * bcryptjs
@@ -50,6 +54,9 @@ Are you too bashful to go outside and talk to real people?  Here is a dating sim
 * Install libraries listed above with `npm i`
 * To launch the game, type `node client/index.js`
 * If you're running a Mac, be sure to crank up the volume! 
+
+## Problem Domain: 
+Are you too bashful to go outside and talk to real people?  Here is a dating simulator to help curb those social anxiety fears. Refine your ideas for what constitutes the perfect date.  For all genders and orientations.
 
 ## User Stories:
 * As a user, I want to be able to create a profile, so that I can be matched with a date.
